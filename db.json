@@ -1,5 +1,5 @@
 {"questions":
-  [{
+  {
     "title": "Android test code",
     "options": [
       "Apple",
@@ -8,15 +8,5 @@
       "DoorDash"
     ],
     "answer": "Apple"
- }, 
-{
-    "title": "Android test code2",
-    "options": [
-      "Apple2",
-      "Microsoft2",
-      "Meta2",
-      "DoorDash2"
-    ],
-    "answer": "Apple2"
- }]
+ }
 }
